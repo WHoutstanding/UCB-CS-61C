@@ -1,0 +1,9 @@
+1.set
+2.b main or b 3
+3.n
+4.s
+5.continue
+6.p
+7.display
+8.info locals
+9.quit
